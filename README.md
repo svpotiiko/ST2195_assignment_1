@@ -1,7 +1,7 @@
 # st2195_assignment_1
 Assignment 1 Submission for Programming for Data Science course 
 
-#Assignment description can be found below 
+Assignment description can be found below 
 #
 Create a GitHub repository called “st2195_assignment_1” that includes:
 1. a README.md file with a short markdown description of this assignment [1 point]
