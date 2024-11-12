@@ -1,0 +1,10 @@
+---
+title : "R Markdown"
+author : "Veronika Potiiko"
+date : 12 November 2024
+output : html_document
+---
+
+```{r quote}
+print(1:10)
+```
