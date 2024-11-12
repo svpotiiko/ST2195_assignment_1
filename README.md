@@ -1,4 +1,4 @@
-# st2195_assignment_1
+# Veronika_Potiiko_st2195_assignment_1
 Assignment 1 Submission for Programming for Data Science course 
 
 Assignment description can be found below 
